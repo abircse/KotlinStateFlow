@@ -1,4 +1,7 @@
 # KotlinStateFlow
-Best Practive Repository for Kotlin State Flow instead of Live data.
+Best Practive Repository for Kotlin State Flow instead of Live data. you can try it in with Coroutine for network call & other operations
 
-![image](https://user-images.githubusercontent.com/22006238/122929190-795dba80-d38c-11eb-9426-a221dccc5a5d.png)
+# Test Credential
+useremail: coxtuneslab@gmail.com
+password: 12345
+
